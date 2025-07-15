@@ -44,7 +44,8 @@ A beautiful, modern URL shortener frontend built with React, Vite, and Material-
 
 ## 4. Responsiveness 
 (on android/mobile Phones)
-<img width="550" height="600" alt="image" src="https://github.com/user-attachments/assets/739bf699-5351-42ac-a306-54398551c3fa" />
+<img width="400" height="600" alt="Mobile Phone" src="https://github.com/user-attachments/assets/e8acd15f-9074-4296-85a6-1817ffbe2e0b" />
+
 
 
 
