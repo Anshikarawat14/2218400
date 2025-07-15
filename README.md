@@ -34,7 +34,8 @@ A beautiful, modern URL shortener frontend built with React, Vite, and Material-
 
 ## Demo
 ## 1.Take URL
-<img width="1917" height="809" alt="image" src="https://github.com/user-attachments/assets/8c0a8e8b-bce2-475c-992a-ec3883390a77" />
+<img width="1886" height="752" alt="ScreenShott" src="https://github.com/user-attachments/assets/e1306337-8709-445d-bb40-9cc0add69841" />
+
 
 
 ## 2. Short the URL
