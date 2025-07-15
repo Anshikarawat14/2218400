@@ -33,8 +33,9 @@ A beautiful, modern URL shortener frontend built with React, Vite, and Material-
 4. Open your browser and go to [http://localhost:5173](http://localhost:5173)
 
 ## Demo
-## 1.Take URL
-<img width="1886" height="752" alt="ScreenShott" src="https://github.com/user-attachments/assets/e1306337-8709-445d-bb40-9cc0add69841" />
+## 1.Takes the URL
+<img width="1887" height="809" alt="ss-final" src="https://github.com/user-attachments/assets/227f8339-1bd5-431f-8651-4d47751f10e4" />
+
 
 ## 2. Short the URL
 <img width="1887" height="762" alt="image" src="https://github.com/user-attachments/assets/be23ca65-31b9-4af8-8a2a-26992f468ed5" />
