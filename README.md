@@ -32,6 +32,17 @@ A beautiful, modern URL shortener frontend built with React, Vite, and Material-
    ```
 4. Open your browser and go to [http://localhost:5173](http://localhost:5173)
 
+## Demo
+## 1.Take URL
+<img width="1917" height="809" alt="image" src="https://github.com/user-attachments/assets/8c0a8e8b-bce2-475c-992a-ec3883390a77" />
+
+
+## 2. Short the URL
+<img width="1887" height="762" alt="image" src="https://github.com/user-attachments/assets/be23ca65-31b9-4af8-8a2a-26992f468ed5" />
+
+## 3. Shows the past history from Check Staistics
+<img width="1885" height="838" alt="image" src="https://github.com/user-attachments/assets/142089d5-8dbc-47ad-ae1e-0a53df0356ec" />
+
 ## Usage
 - Enter a long URL in the input field and click **Shorten URLs**.
 - Optionally, set a custom shortcode and validity (in minutes).
