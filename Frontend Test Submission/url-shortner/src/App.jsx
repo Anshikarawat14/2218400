@@ -17,7 +17,7 @@ function App() {
             Shorten URL
           </Button>
           <Button color="inherit" component={Link} to="/stats">
-            Statistics
+            Check Statistics
           </Button>
         </Toolbar>
       </AppBar>

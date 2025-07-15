@@ -114,7 +114,7 @@ function ShortenerPage() {
         shortcode,
         createdAt: now.toISOString(),
         expiry: expiry.toISOString(),
-        clicks: [], // { timestamp, referrer, geo }
+        clicks: [], 
       };
       newResults.push(result);
       newShortUrlMap[shortcode] = result;
