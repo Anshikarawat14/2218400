@@ -1,6 +1,6 @@
 # URL Shortener - React App
 
-A beautiful, modern URL shortener frontend built with React, Vite, and Material-UI. Easily convert long URLs into short, shareable links and check usage statistics—all with a pastel pink, attractive interface.
+A beautiful, modern URL shortener frontend built with React, Vite, and Material-UI. Easily convert long URLs into short, shareable links and check usage statistics.
 
 ## Features
 - Shorten any long URL to a short, custom code
