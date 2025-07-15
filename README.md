@@ -40,10 +40,12 @@ A beautiful, modern URL shortener frontend built with React, Vite, and Material-
 ## 2. Short the URL
 <img width="1887" height="762" alt="image" src="https://github.com/user-attachments/assets/be23ca65-31b9-4af8-8a2a-26992f468ed5" />
 
-## 3. Shows the past history from Check Staistics
+## 3. Redirect you the page when clicked
+
+## 4. Shows the past history by clicking on Check Staistics
 <img width="1885" height="838" alt="image" src="https://github.com/user-attachments/assets/142089d5-8dbc-47ad-ae1e-0a53df0356ec" />
 
-## 4. Responsiveness 
+## 5. Responsiveness 
 - (on android/mobile Phones)
 
   
